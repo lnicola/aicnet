@@ -1,4 +1,4 @@
-# Augemented Iteracted Contract Net (AICNET) Experimentation System
+# Augmented Iterated Contract Net (AICNET) Experimentation System
 
 An experimentation platform for negotiation protocols in a  Freight Transport Multi Agent System.
 
